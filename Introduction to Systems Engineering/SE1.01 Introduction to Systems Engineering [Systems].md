@@ -117,18 +117,18 @@ When a system's output influence input, it is called feedback, a feedback that w
 $$
 
 \text{System}\begin{cases}
-\text{Simple System}\begin{cases}
-\text{Little System}\\
-\text{Large System}\\
-\text{Gaint System}
-\end{cases}\\
-\text{Complex System}\begin{cases}
-\text{Large System}\\
-\text{Gaint System}\begin{cases}
-\text{General Gaint Complex System}\\
-\text{Special Gaint Complex System}
-\end{cases}
-\end{cases}
+  \text{Simple System}\begin{cases}
+    \text{Little System}\\
+    \text{Large System}\\
+    \text{Gaint System}
+  \end{cases}\\
+  \text{Complex System}\begin{cases}
+    \text{Large System}\\
+    \text{Gaint System}\begin{cases}
+      \text{General Gaint Complex System}\\
+      \text{Special Gaint Complex System}
+    \end{cases}
+  \end{cases}
 \end{cases}
 $$
 
