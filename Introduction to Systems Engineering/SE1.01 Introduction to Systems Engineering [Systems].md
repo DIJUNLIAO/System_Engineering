@@ -68,13 +68,13 @@ System is a complex of many interrelating and interacting factors with specific 
 
             Entity System (Hard System): Consist by material entity
 
-            Concept System (Soft System): Some techniques, programs without material             entity.
+            Concept System (Soft System): Some techniques, programs without material entity.
 
-   Entity systems are the basic of concept systems. Concept systems provides guides    and services for entity systems.
+   Entity systems are the basic of concept systems. Concept systems provides guides and services for entity systems.
 
 **According to motion attributes:**
 
-        Open System: There has exchanges and flow  in material, energetic and         informative between system and its environment.  
+        Open System: There has exchanges and flow  in material, energetic and informative between system and its environment.  
 
         Closed System: There  is no exchanges between system and environment.
 
@@ -94,9 +94,9 @@ When a system's output influence input, it is called feedback, a feedback that w
 
 **According to the attributes that the work of human in system:**
 
-        Operational Activities: It is the basic activities for human life and products, it act         directly on environments or people themselves; it can also be called "category 1         activities".
+        Operational Activities: It is the basic activities for human life and products, it act directly on environments or people themselves; it can also be called "category 1 activities".
 
-        Management Activities: It act on operational activities, it is the layout or organise         of operations. it take operational activities as its objects.
+        Management Activities: It act on operational activities, it is the layout or organise of operations. it take operational activities as its objects.
 
 **According to their complexity:**
 
@@ -110,9 +110,9 @@ When a system's output influence input, it is called feedback, a feedback that w
 
 **Academician Qian Xuesen's Classify:**
 
-        According to the scale of system, it can divided as: little system, large system and         giant system. 
+        According to the scale of system, it can divided as: little system, large system and giant system. 
 
-        According to the complexity of system, it can divided as: simple system and         complex system.
+        According to the complexity of system, it can divided as: simple system and complex system.
 
 $$
 
@@ -167,7 +167,7 @@ Here,
 
         $\bm{R_1}$ is the relations between elements or parts (transversal connections)
 
-        $\bm{R_2}$ is the relations between parts and entirely, low level and high level (vertical         connections)
+        $\bm{R_2}$ is the relations between parts and entirely, low level and high level (vertical connections)
 
         $\bm{R_3}$ is the relations between system and its environment
 
