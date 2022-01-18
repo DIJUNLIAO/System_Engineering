@@ -38,6 +38,13 @@ A big system usually included many small systems. Sometime there are some invers
 
 System is a complex of many interrelating and interacting factors with specific functions. The complex is called ensemble or population, factors in it are called parts, elements or subsystems. Note that the complex and factors are relative. Since system is usually a system-consisted system nowadays.
 
+Generally, a system should have the following four features:
+
+  1. Systems and its elements: A system should have more than two elements, these elements can be a single objectives or a subsystem combined by many objectvies.
+  2. Systems and its environments: Every system belongs to a larger system and interact to each other.
+  3. Systems and its structures: Different elements have different relations to each other, it consists specific structures and orders inside a system.
+  4. Systems and its functions: Every system have its value and effects to exist. They have specific objectvies to operating. Furthermore, it have specific functions which is influenced by the environment and structures of a system.
+
 #### Attributes
 
 **Collectivity**: System must combine by two or more than two different features.
