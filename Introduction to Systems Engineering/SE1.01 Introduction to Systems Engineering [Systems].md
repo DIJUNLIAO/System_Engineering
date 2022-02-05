@@ -1,4 +1,3 @@
-\usepackage{bm}
 # Introduction to Systems Engineering
 
 ## Systems
@@ -147,7 +146,7 @@ According to whether the system is continuous, it can divided into continuous sy
 Generally, a system can be represent as the following equations:
 
 $$
-\bm{S}=\left\{\bm{E},\bm{R}\right\} \qquad or \quad \bm{S}=\left\{\bm{E} | \bm{R}\right\}
+\bf{S}=\left\{\bf{E},\bf{R}\right\} \qquad or \quad \bf{S}=\left\{\bf{E} | \bf{R}\right\}
 $$
 
 Here, $\bm{S}$ is called the system, $\bm{E}$ represent the set of elements and $\bm{R}$ represent the relations set above $\bm{E}$.
