@@ -2,8 +2,6 @@
 
 ## Systems
 
-****
-
 ### Overviews
 
 #### Trend of Today's World -- 5 factors
@@ -29,8 +27,6 @@ It also included in system that a system is a combination of different equipment
 A big system usually included many small systems. Sometime there are some inverse trend for small subsystems in a big system. But the general trend is fixed and systematical. Meta-syntheses allowed decompositions and differentiations in a small part for a system to make the general systematic.
 
 **System Engineering** can be regards as the productions of meta-syntheses, it use system methods to develop engineering projects and solving systematic problems by applying engineering methods.
-
-****
 
 ### Systems
 
@@ -87,7 +83,7 @@ Generally, a system should have the following four features:
 
 It is hard to find a strict closed system. We sometime ignore some minority exchange phenomenon. There are two kind of flow phenomenons, one is called input or interference that it is the flow from environment to system; another is called output that it is the flow from system to environment. It can be shows as following figure:
 
-<img title="" src="file:///D:/文件/系统工程/1.png" alt="" width="437" data-align="center">
+<img title="" src="https://github.com/DIJUNLIAO/System_Engineering/blob/main/Introduction%20to%20Systems%20Engineering/img/1.png" alt="" width="437" data-align="center">
 
 **According to feedback attributes:**
 
@@ -97,7 +93,7 @@ When a system's output influence input, it is called feedback, a feedback that w
 
         Closed Loop System: It is a system with feedback.
 
-<img title="" src="file:///D:/文件/系统工程/2.png" alt="" data-align="center">
+<img title="" src="https://github.com/DIJUNLIAO/System_Engineering/blob/main/Introduction%20to%20Systems%20Engineering/img/2.png" alt="" data-align="center">
 
 **According to the attributes that the work of human in system:**
 
@@ -141,7 +137,7 @@ $$
 
 It also can be represent as a 3D Cartesian coordinate system:
 
-<img title="" src="file:///D:/文件/系统工程/3.png" alt="" width="290" data-align="center">
+<img title="" src="https://github.com/DIJUNLIAO/System_Engineering/blob/main/Introduction%20to%20Systems%20Engineering/img/3.png" alt="" width="290" data-align="center">
 
 According to whether the system is continuous, it can divided into continuous system and discrete system; furthermore, according to the relations between variables, it can divided into linear system and non-linear system.
 
